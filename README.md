@@ -3,7 +3,7 @@ HTML, CSS, Refactor Assignment - 20210520
 
 ## Overview
 
-Tasked to "improve the codebase for long-term sustainability. Check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page." and that codebase that follows accessibility standards.
+Tasked to "improve the codebase for long-term sustainability. Check that all links are functioning correctly. Also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page." and that codebase that follows accessibility standards.
 
 ---
 ### Given Criteria
